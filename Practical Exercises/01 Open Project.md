@@ -1,7 +1,7 @@
 Open Project Exercise
 ---------------------
 
-1. Find out your group's seating **row** and **cluster** numbers
+1. Find out your group's **row** and **seat** (see the table at end of this file)
 1. Go and find your group
 1. Introduce yourselves
 1. Decide on a team leader
@@ -24,3 +24,42 @@ Open Project Exercise
 1. Make each activity a child of the "Project Initiation" _Phase_
 1. When you have completed an activity, be sure to set its _progress_ to 100% and its _status_ to "closed"
 1. Discuss the name of your project (as shown in Open Project) update this if you think it needs altering
+
+Seating allocation
+------------------
+-
+
+| Team Name	                             | Row | Seat |
+|----------------------------------------|:---:|:----:|
+| 3D Printed Artificial Muscles          |  A  |  1   |
+| 66 Days                                |  A  |  2   |
+| AR VR Building Induction               |  A  |  3   |
+| Breadcrumbs                            |  B  |  1   |
+| Bristol Buddies                        |  B  |  2   |
+| Childrens vocabulary app               |  B  |  3   |
+| Click and mortar                       |  C  |  1   |
+| Contactless donations                  |  C  |  2   |
+| CSS app                                |  C  |  3   |
+| Engineering Project Marking System     |  D  |  1   |
+| FAT-Forensics                          |  D  |  2   |
+| Firefox Extensions Ecosystem           |  D  |  3   |
+| Gamification of Energy Bills           |  E  |  1   |
+| Green Credentials                      |  E  |  2   |
+| #Help                                  |  E  |  3   |
+| Historical photograph media            |  F  |  1   |
+| Laboratory Booking and Attendance      |  F  |  2   |
+| Law Clinic case management             |  F  |  3   |
+| Navigational tool                      |  G  |  1   |
+| Periodic Table app                     |  G  |  2   |
+| Potato: Library 2.0                    |  G  |  3   |
+| Poverty reduction                      |  H  |  1   |
+| Samsung Smart home                     |  H  |  2   |
+| Sentiment analysis of software         |  H  |  3   |
+| Server Monitoring with AI Detection    |  J  |  1   |
+| Smart Homes Application                |  J  |  2   |
+| Social welfare                         |  J  |  3   |
+| Spitfire table tennis robot            |  K  |  1   |
+| Streamlining marks at CELFS            |  K  |  2   |
+| University Study Space Booking App     |  K  |  3   |
+| UoB Library mobile app                 |  L  |  1   |
+| Wounds and scars                       |  L  |  2   |
